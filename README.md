@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 Meu nome é Samantha e sou estudante da área de tecnologia. Tenho interesse em desenvolvimento de software e gosto de aprender como criar soluções que possam facilitar o dia a dia das pessoas.
 
